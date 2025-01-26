@@ -27,6 +27,17 @@ Para desenvolver a calculadora, utilizei as seguintes estruturas condicionais:
 * ### **While**
 O while é uma estrutura de repetição que executa um bloco de código enquanto uma condição for verdadeira.
 
+```
+while True:
+  print("Escolha uma operação:\n")
+  print("1 - Soma")
+  print("2 - Subtração")
+  print("3 - Multiplicação")
+  print("4 - Divisão")
+  print("\n5 - SAIR")
+  operacao = int(input(""))
+```
+
 * ### **If**
 A estrutura if é usada para executar um bloco de código se uma condição for verdadeira.
 
