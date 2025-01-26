@@ -15,7 +15,7 @@ Após realizar isso, utilize o comando para executar o arquivo:
 ```
 ./calculadora_script.sh
 ```
-Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo, enquanto os outros usuários possam apenas ler e executar, digite o seguindo comando:
+Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo; enquanto os outros usuários possam apenas ler e executar, digite o seguindo comando:
 
 ```
 chmod 755 calculadora_script.sh
