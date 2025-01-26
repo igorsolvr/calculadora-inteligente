@@ -1,5 +1,5 @@
 # Calculadora Inteligente EBAC
-Calculadora simples criada durante as aulas para realizar contas básicas (Soma, Subtração, Divisão e Multiplicação) com números reais.
+Calculadora simples criada durante as aulas para realizar operações básicas (Soma, Subtração, Divisão e Multiplicação) com números reais.
 
 Recursos necessários: 
 * Terminal Ubuntu 22.04
