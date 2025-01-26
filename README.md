@@ -40,14 +40,36 @@ while True:
 
 * ### **If**
 A estrutura if é usada para executar um bloco de código se uma condição for verdadeira.
+```
+if operacao in (1,2,3,4):
+
+    n1 = float(input("Digite o primeiro número: "))
+    n2 = float(input("Digite o segundo número: "))
+```
 
 * ### **Elif**
 O elif é uma abreviação de "else if", e é usado quando você tem múltiplas condições a serem verificadas. Se a condição do if for falsa, o Python verifica a condição do elif.
+```
+if operacao == 1:
+    print("\nO Resultado da soma é: ", n1 + n2)
+  elif operacao == 2:
+    print("\nO Resultado da subtração é: ", n1 - n2)
+  elif operacao == 3:
+    print("\nO Resultado da multiplicação é: ", n1 * n2)
+  elif operacao == 4:
+    print("\nO Resultado da divisão é: ", n1 / n2)
+  elif operacao == 5:
+    print("\nObrigado por utilizar a nossa calculadora!")
+    break
+```
+*Nesse caso também utilizei a função **break** para que o usuário também possa sair da calculadora quando quiser.
 
 * ### **Else**
 O else é usado para definir um bloco de código que será executado quando todas as condições anteriores (if ou elif) forem falsas.
-  
-
+```
+ else:
+    print('Não foi possível realizar a operação, tente novamente.')
+```
 
 
 
