@@ -5,7 +5,7 @@ Recursos necessários:
 * Terminal Ubuntu 24.04
 * GitHub
 
-## Instalando o Ubuntu 24.04
+## instalando-o-ubuntu-24.04
 
 1. Para instalar o terminal Linux (Ubuntu), será necessário que você abra o terminal do windows, o PowerShell. Para fazer isso basta ir na sua Barra de Tarefas, procurar pela caixa de pesquisa e digitar **Windows PowerShell**.
 
