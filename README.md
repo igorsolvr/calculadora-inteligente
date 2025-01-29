@@ -48,6 +48,29 @@ Caso você queira definir as permissões de modo com que apenas o adminstrador p
 ```
 chmod 755 calculadora_script.sh
 ```
+*Atente-se se você possui uma senha para executar a instalação, caso não tenha, é só apertar a tecla ENTER. Caso tenha uma senha e você não lembrar, segue um tutorial de como redefinir.*
+
+## Redefinindo a senha do terminal Ubuntu
+
+* Abra o PowerShell e veja a distribuição que você instalou.
+```
+wsl -l # lista as distribuições instaladas﻿
+```
+* Acesse o usuário root da distribuição, por padrão o “root” é o principal
+```
+wsl -d distribution --user root
+``` 
+exemplo: 
+wsl -d Ubuntu-24.04 --user root
+
+* Digite passwd seguido do nome do usuário que você deseja resetar a senha
+```
+passwd username
+``` 
+exemplo:
+passwd rodrigo
+
+* Digite sua nova senha!
 
 ## Código Python Documentado
 
