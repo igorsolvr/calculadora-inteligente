@@ -30,6 +30,7 @@ Dentro do diretório digite o comando para acessá-lo no explorer e cole os arqu
 ```
 explorer.exe .
 ```
+E pronto, seus arquivos já estão no diretório prontos para serem utilizados.
 
 ## Executando os arquivos
 
