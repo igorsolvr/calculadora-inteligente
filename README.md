@@ -51,7 +51,7 @@ chmod +x calculadora_script.sh
 ```
 chmod 755 calculadora_script.sh
 ```
-*Atente-se se você possui uma senha para executar a instalação, caso não tenha, é só apertar a tecla ENTER. Caso tenha uma senha e você não lembre, segue um tutorial de como redefinir.*
+**_Atente-se se você possui uma senha para executar a instalação, caso não tenha, é só apertar a tecla ENTER. Caso tenha uma senha e você não lembre, segue um tutorial de como redefinir._**
 
 ## Redefinindo a senha do terminal Ubuntu
 
