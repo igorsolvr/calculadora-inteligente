@@ -7,9 +7,11 @@ Recursos necessários:
 
 ## Instalando o Ubuntu 24.04
 
-1. Para instalar o terminal Linux (Ubuntu), será necessário que você abra o terminal do windows, o Power Shell, e execute-o no modo de administrador (Clique com o botão direito do mouse).
+1. Para instalar o terminal Linux (Ubuntu), será necessário que você abra o terminal do windows, o Power Shell. Para fazer isso basta ir na sua Barra de Tarefas, procurar pela caixa de pesquisa e digitar **Windows Power Shell**.
 
-2. Com ele aberto, você digitará o seguinte comando:
+2. Execute-o no **modo de administrador** (Clique com o botão direito do mouse).
+
+3. Com ele aberto, você digitará o seguinte comando:
 ```
 wsl --install --distribution Ubuntu-24.04
 
@@ -30,7 +32,7 @@ cd "nome do diretório"
 ```
 explorer.exe .
 ```
-**E pronto, seus arquivos já estão no diretório prontos para serem utilizados.**
+**Com isso, seus arquivos já estarão no diretório prontos para serem utilizados!**
 
 ## Executando os arquivos
 
