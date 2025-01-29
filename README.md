@@ -2,10 +2,38 @@
   Calculadora simples criada durante as aulas para realizar operações básicas (Soma, Subtração, Divisão e Multiplicação) com números reais.
 
 Recursos necessários: 
-* Terminal Ubuntu 22.04
+* Terminal Ubuntu 24.04
 * GitHub
 
-Para executar o arquivo sh. é necessário que abra o seu terminal, coloque-o no seu diretório e em seguida digite o seguinte comando para torná-lo executável:
+##Instalando o Ubuntu 24.04
+
+Para instalar o terminal Linux Ubuntu, será necessário que você abra o terminal do windows, o Power Shell, e execute-o no modo de administrador (Clique com o botão direito do mouse).
+
+Com ele aberto, você digitará o seguinte comando:
+```
+wsl --install --distribution Ubuntu-24.04
+
+```
+E pronto! Seu terminal Linux já está pronto para ser utilizado.
+
+##Criando um diretório e inserindo os arquivos baixados nele
+
+Primeiramente crie um novo diretório através do comando: 
+```
+mkdir "nome do diretório"
+````
+Após criado, acesse o diretório: 
+```
+cd "nome do diretório"
+```
+Dentro do diretório digite o comando para acessá-lo no explorer e cole os arquivos (o script .sh e o arquivo em python .py:
+```
+explorer.exe .
+```
+
+##Executando os arquivos
+
+Para executar o arquivo sh. é necessário que abra o seu terminal Ubuntu, coloque-o no seu diretório e digite o seguinte comando para torná-lo executável:
 
 ```
 chmod +x calculadora_script.sh
