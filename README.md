@@ -49,7 +49,7 @@ Caso você queira definir as permissões de modo com que apenas o adminstrador p
 ```
 chmod 755 calculadora_script.sh
 ```
-*Atente-se se você possui uma senha para executar a instalação, caso não tenha, é só apertar a tecla ENTER. Caso tenha uma senha e você não lembrar, segue um tutorial de como redefinir.*
+*Atente-se se você possui uma senha para executar a instalação, caso não tenha, é só apertar a tecla ENTER. Caso tenha uma senha e você não lembre, segue um tutorial de como redefinir.*
 
 ## Redefinindo a senha do terminal Ubuntu
 
