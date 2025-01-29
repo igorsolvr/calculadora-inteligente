@@ -26,7 +26,7 @@ Após criado, acesse o diretório:
 ```
 cd "nome do diretório"
 ```
-Dentro do diretório digite o comando para acessá-lo no explorer e cole os arquivos (o script .sh e o arquivo em python .py:
+Dentro do diretório digite o comando para acessá-lo no explorer e cole os arquivos (o script .sh e o arquivo em python .py):
 ```
 explorer.exe .
 ```
