@@ -89,6 +89,7 @@ while True:
   print("\n5 - SAIR")
   operacao = int(input(""))
 ```
+
 <br/>
 
 * ### **If**
@@ -100,6 +101,7 @@ if operacao in (1,2,3,4):
     n2 = float(input("Digite o segundo número: "))
 ```
 *Aqui também utilizei a função **float** para que a variável fosse um número real, tendo mais possibilidades de resultados durante as operações.* 
+
 <br/>
 
 * ### **Elif**
@@ -118,6 +120,7 @@ if operacao == 1:
     break
 ```
 *Nesse caso também utilizei a função **break** para que o usuário também possa sair da calculadora quando quiser.*
+
 <br/>
 
 * ### **Else**
