@@ -44,7 +44,7 @@ chmod +x calculadora_script.sh
 ```
 ./calculadora_script.sh
 ```
-4. Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo; enquanto os outros usuários possam apenas ler e executar, digite o seguinte comando:
+3. Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo; enquanto os outros usuários possam apenas ler e executar, digite o seguinte comando:
 
 ```
 chmod 755 calculadora_script.sh
