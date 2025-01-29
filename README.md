@@ -124,6 +124,7 @@ if operacao == 1:
     print('Não foi possível realizar a operação, tente novamente.')
 ```
 
+
 * Utilizei também a função de entrada de informações **_input_** para que o usuário consiga interagir com o programa. E a função **_print_** para imprimir todas as informações recebidas.
 
 
