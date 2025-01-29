@@ -132,7 +132,7 @@ if operacao == 1:
 
 <br/>
 
-* Utilizei também a função de entrada de informações `#0969DA`**_input_** para que o usuário consiga interagir com o programa. E a função **_print_** para imprimir todas as informações recebidas.
+* Utilizei também a função de entrada de informações `**input**` para que o usuário consiga interagir com o programa. E a função `**print**` para imprimir todas as informações recebidas.
 
 
 
