@@ -129,9 +129,10 @@ if operacao == 1:
  else:
     print('Não foi possível realizar a operação, tente novamente.')
 ```
+
 <br/>
 
-* Utilizei também a função de entrada de informações **_input_** para que o usuário consiga interagir com o programa. E a função **_print_** para imprimir todas as informações recebidas.
+* Utilizei também a função de entrada de informações `#0969DA`**_input_** para que o usuário consiga interagir com o programa. E a função **_print_** para imprimir todas as informações recebidas.
 
 
 
