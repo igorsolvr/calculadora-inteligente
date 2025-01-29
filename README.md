@@ -115,7 +115,7 @@ if operacao == 1:
     print("\nObrigado por utilizar a nossa calculadora!")
     break
 ```
-*Nesse caso também utilizei a função **break** para que o usuário também possa sair da calculadora quando quiser.* 
+*Nesse caso também utilizei a função **break** para que o usuário também possa sair da calculadora quando quiser.* <br/>
 
 * ### **Else**
   O else é usado para definir um bloco de código que será executado quando todas as condições anteriores (if ou elif) forem falsas.
