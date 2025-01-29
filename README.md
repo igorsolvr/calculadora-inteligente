@@ -59,9 +59,7 @@ wsl -l
 ```
 * Acesse o usuário root da distribuição, por padrão o “root” é o principal
 ```
-wsl -d distribution
-Ruby
---user root
+wsl -d distribution --user root
 ``` 
 exemplo: 
 wsl -d Ubuntu-24.04 --user root
