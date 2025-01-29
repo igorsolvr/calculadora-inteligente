@@ -53,25 +53,23 @@ chmod 755 calculadora_script.sh
 
 ## Redefinindo a senha do terminal Ubuntu
 
-* Abra o PowerShell e veja a distribuição que você instalou.
+1. Abra o PowerShell e veja a distribuição que você instalou.
 ```
 wsl -l
 ```
-* Acesse o usuário root da distribuição, por padrão o “root” é o principal
+2. Acesse o usuário root da distribuição, por padrão o “root” é o principal
 ```
 wsl -d distribution --user root
 ``` 
-exemplo: 
-wsl -d Ubuntu-24.04 --user root
+**_exemplo: wsl -d Ubuntu-24.04 --user root_**
 
-* Digite passwd seguido do nome do usuário que você deseja resetar a senha
+3. Digite passwd seguido do nome do usuário que você deseja resetar a senha
 ```
 passwd username
 ``` 
-exemplo:
-passwd rodrigo
+**_exemplo: passwd rodrigo_**
 
-* Digite sua nova senha!
+4. Digite sua nova senha!
 
 ## Código Python Documentado
 
