@@ -7,44 +7,44 @@ Recursos necessários:
 
 ## Instalando o Ubuntu 24.04
 
-Para instalar o terminal Linux (Ubuntu), será necessário que você abra o terminal do windows, o Power Shell, e execute-o no modo de administrador (Clique com o botão direito do mouse).
+1. Para instalar o terminal Linux (Ubuntu), será necessário que você abra o terminal do windows, o Power Shell, e execute-o no modo de administrador (Clique com o botão direito do mouse).
 
-Com ele aberto, você digitará o seguinte comando:
+2. Com ele aberto, você digitará o seguinte comando:
 ```
 wsl --install --distribution Ubuntu-24.04
 
 ```
-E pronto! Seu terminal Linux já está pronto para ser utilizado.
+**E pronto! Seu terminal Linux já está pronto para ser utilizado.**
 
 ## Criando um diretório e inserindo os arquivos baixados nele
 
-Primeiramente crie um novo diretório através do comando: 
+1. Primeiramente crie um novo diretório através do comando: 
 ```
 mkdir "nome do diretório"
 ````
-Após criado, acesse o diretório: 
+2. Acesse o diretório: 
 ```
 cd "nome do diretório"
 ```
-Dentro do diretório digite o comando para acessá-lo no explorer e cole os arquivos (o script .sh e o arquivo em python .py):
+3. Dentro do diretório digite o comando para acessá-lo no explorer e cole os arquivos (o script .sh e o arquivo em python .py):
 ```
 explorer.exe .
 ```
-E pronto, seus arquivos já estão no diretório prontos para serem utilizados.
+**E pronto, seus arquivos já estão no diretório prontos para serem utilizados.**
 
 ## Executando os arquivos
 
-Para executar o arquivo sh. é necessário que abra o seu terminal Ubuntu, coloque-o no seu diretório e digite o seguinte comando para torná-lo executável:
+1. Para executar o arquivo sh. é necessário que abra o seu terminal Ubuntu, coloque-o no seu diretório e digite o seguinte comando para torná-lo executável:
 
 ```
 chmod +x calculadora_script.sh
 ```
-Após realizar isso, utilize o comando para executar o arquivo: 
+2. Utilize o comando para executar o arquivo: 
 
 ```
 ./calculadora_script.sh
 ```
-Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo; enquanto os outros usuários possam apenas ler e executar, digite o seguinte comando:
+4. Caso você queira definir as permissões de modo com que apenas o adminstrador possa executar, ler e editar o arquivo; enquanto os outros usuários possam apenas ler e executar, digite o seguinte comando:
 
 ```
 chmod 755 calculadora_script.sh
