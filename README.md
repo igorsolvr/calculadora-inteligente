@@ -119,7 +119,7 @@ if operacao == 1:
     print("\nObrigado por utilizar a nossa calculadora!")
     break
 ```
-*Nesse caso também utilizei a função **break** para que o usuário também possa sair da calculadora quando quiser.*
+*Nesse caso também utilizei a função `break` para que o usuário também possa sair da calculadora quando quiser.*
 
 <br/>
 
@@ -132,7 +132,7 @@ if operacao == 1:
 
 <br/>
 
-* Utilizei também a função de entrada de informações `**input**` para que o usuário consiga interagir com o programa. E a função `**print**` para imprimir todas as informações recebidas.
+* Utilizei também a função de entrada de informações `input` para que o usuário consiga interagir com o programa. E a função `print` para imprimir todas as informações recebidas.
 
 
 
