@@ -16,7 +16,7 @@ wsl --install --distribution Ubuntu-24.04
 ```
 E pronto! Seu terminal Linux já está pronto para ser utilizado.
 
-##Criando um diretório e inserindo os arquivos baixados nele
+## Criando um diretório e inserindo os arquivos baixados nele
 
 Primeiramente crie um novo diretório através do comando: 
 ```
@@ -31,7 +31,7 @@ Dentro do diretório digite o comando para acessá-lo no explorer e cole os arqu
 explorer.exe .
 ```
 
-##Executando os arquivos
+## Executando os arquivos
 
 Para executar o arquivo sh. é necessário que abra o seu terminal Ubuntu, coloque-o no seu diretório e digite o seguinte comando para torná-lo executável:
 
