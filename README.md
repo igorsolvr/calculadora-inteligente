@@ -55,7 +55,7 @@ chmod 755 calculadora_script.sh
 
 * Abra o PowerShell e veja a distribuição que você instalou.
 ```
-wsl -l # lista as distribuições instaladas﻿
+wsl -l
 ```
 * Acesse o usuário root da distribuição, por padrão o “root” é o principal
 ```
