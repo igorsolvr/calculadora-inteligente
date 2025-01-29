@@ -63,13 +63,13 @@ wsl -l
 ```
 wsl -d distribution --user root
 ``` 
-**_exemplo: wsl -d Ubuntu-24.04 --user root_**
+**_`exemplo: wsl -d Ubuntu-24.04 --user root`_**
 
 3. Digite passwd seguido do nome do usuário que você deseja resetar a senha
 ```
 passwd username
 ``` 
-**_exemplo: passwd rodrigo_**
+**_`exemplo: passwd rodrigo`_**
 
 4. Digite sua nova senha!
 
